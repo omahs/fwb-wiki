@@ -46,5 +46,5 @@ export default {
   nextLinks: true,
   footer: true,
   footerEditLink: 'Edit this page on GitHub',
-  footerText: <>MIT {new Date().getFullYear()} © FWB Wiki.</>,
+  footerText: <>{new Date().getFullYear()} © Friends with Benefits</>,
 }
