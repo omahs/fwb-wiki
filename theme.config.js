@@ -4,57 +4,30 @@ export default {
   titleSuffix: ' – Nextra',
   logo: (
     <>
-      <span className="mr-2 font-extrabold hidden md:inline">Nextra</span>
-      <span className="text-gray-600 font-normal hidden md:inline">
-        The Next.js Static Site Generator
-      </span>
+      <span className="mr-2 font-extrabold hidden md:inline">FWB Wiki</span>
     </>
   ),
   head: (
     <>
-      <meta name="msapplication-TileColor" content="#ffffff" />
-      <meta name="theme-color" content="#ffffff" />
-      <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-      <meta httpEquiv="Content-Language" content="en" />
-      <meta name="description" content="Nextra: the Next.js site builder" />
-      <meta name="og:description" content="Nextra: the Next.js site builder" />
-      <meta name="twitter:card" content="summary_large_image" />
-      <meta name="twitter:image" content="https://nextra.vercel.app/og.png" />
-      <meta name="twitter:site:domain" content="nextra.vercel.app" />
-      <meta name="twitter:url" content="https://nextra.vercel.app" />
-      <meta name="og:title" content="Nextra: Next.js static site generator" />
-      <meta name="og:image" content="https://nextra.vercel.app/og.png" />
-      <meta name="apple-mobile-web-app-title" content="Nextra" />
-      <link
-        rel="apple-touch-icon"
-        sizes="180x180"
-        href="/apple-icon-180x180.png"
-      />
-      <link
-        rel="icon"
-        type="image/png"
-        sizes="192x192"
-        href="/android-icon-192x192.png"
-      />
-      <link
-        rel="icon"
-        type="image/png"
-        sizes="32x32"
-        href="/favicon-32x32.png"
-      />
-      <link
-        rel="icon"
-        type="image/png"
-        sizes="96x96"
-        href="/favicon-96x96.png"
-      />
-      <link
-        rel="icon"
-        type="image/png"
-        sizes="16x16"
-        href="/favicon-16x16.png"
-      />
-      <meta name="msapplication-TileImage" content="/ms-icon-144x144.png" />
+      <meta charSet="utf-8"/>
+      <meta http-equiv="x-ua-compatible" content="ie=edge"/>
+      <meta name="viewport" content="initial-scale=1.0, width=device-width"/>
+      <meta name="format-detection" content="telephone=no"/>
+      <link preload="true" rel="icon" href="/favicon.ico"/>
+      <link preload="true" rel="mask-icon" href="/favicon.ico" color="#000000"/>
+      <link rel="preconnect" href="https://cdn.sanity.io" crossorigin="anonymous"/>
+      <title>FWB - Wiki</title>
+      <meta name="description" content="FWB - Wiki"/>
+      <meta property="og:title" content="FWB - Wiki"/>
+      <meta name="twitter:title" content="FWB - Wiki"/>
+      <meta property="og:description" content="FWB - Wiki"/>
+      <meta name="twitter:description" content="FWB - Wiki"/>
+      <meta property="og:image" content="https://cdn.sanity.io/images/muknps09/production/c833ca53ad3be050adc701f83e3045a6c70f2fe1-1200x628.png?rect=2,0,1196,628&amp;w=1200&amp;h=630"/>
+      <meta name="twitter:image" content="https://cdn.sanity.io/images/muknps09/production/c833ca53ad3be050adc701f83e3045a6c70f2fe1-1200x628.png?rect=2,0,1196,628&amp;w=1200&amp;h=630"/>
+      <meta property="og:type" content="website"/>
+      <meta name="twitter:card" content="summary_large_image"/>
+      <meta name="og:site_name" content="Friends With Benefits"/>
+      <meta name="next-head-count" content="18"/>
     </>
   ),
   search: true,
@@ -63,5 +36,4 @@ export default {
   footer: true,
   footerEditLink: 'Edit this page on GitHub',
   footerText: <>MIT {new Date().getFullYear()} © Nextra.</>,
-  unstable_faviconGlyph: '👋',
 }

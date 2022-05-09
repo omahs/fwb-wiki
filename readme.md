@@ -1,22 +1,12 @@
-# [Nextra](https://nextra.vercel.app)
+# FWB Wiki
 
-_Warning: this project is not production ready, API might change without notice._
+This project contains the Friends With Benefits Wiki.
 
-[![](https://vercel.com/button)](https://vercel.com/import/git?s=https%3A%2F%2Fgithub.com%2Fshuding%2Fnextra&c=1)
+![](https://cdn.sanity.io/images/muknps09/production/c833ca53ad3be050adc701f83e3045a6c70f2fe1-1200x628.png?rect=2,0,1196,628&amp;w=1200&amp;h=630)
 
-**Nextra** is a [Next.js](https://nextjs.org) and [MDX](https://mdxjs.com) powered, no-code site generator.
-
-![](/public/demo.png)
-
-## Development
-
-The code of Nextra is under the [`core`](https://github.com/shuding/nextra/tree/core) branch.
-
-## Themes
-
-- [nextra-theme-docs](https://github.com/vercel/swr-site) ([demo](https://swr.vercel.app))
-- [nextra-theme-blog](https://github.com/shuding/site) ([demo](https://shud.in))
+## Nextra
+The FWB Wiki project is based on [Nexta](https://nextra.vercel.app), a [Next.js](https://nextjs.org) plugin for serving MD and [MDX](https://mdxjs.com) files. Nextra is created by [@shuding](https://github.com/shuding) and [@pacocoursey](https://github.com/pacocoursey) at [Vercel](https://vercel.com). Released under the MIT license.
 
 ---
 
-Created by [@shuding](https://github.com/shuding) and [@pacocoursey](https://github.com/pacocoursey) at [Vercel](https://vercel.com). Released under the MIT license.
+
