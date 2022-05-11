@@ -41,6 +41,7 @@ export default {
     </>
   ),
   darkMode: false,
+  defaultMenuCollapsed: true,
   search: true,
   prevLinks: true,
   nextLinks: true,
