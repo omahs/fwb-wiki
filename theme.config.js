@@ -1,6 +1,6 @@
 export default {
-  github: 'https://github.com/baumaus/fwb-wiki',
-  docsRepositoryBase: 'https://github.com/baumaus/fwb-wiki/blob/master',
+  github: 'https://github.com/friends-with-benefits/fwb-wiki',
+  docsRepositoryBase: 'https://github.com/friends-with-benefits/fwb-wiki/blob/master',
   titleSuffix: ' – FWB Wiki',
   logo: (
     <>
